@@ -6,7 +6,7 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: Dinesh Yadav
+title: Dinesh Sai 
 tageline: blog
 description: My daily sprinkles on life and technology
 url: http://dinesh.github.io
@@ -18,7 +18,7 @@ kramdown:
   syntax_highlighter: rouge
 
 author:
-  name: 'Dinesh Yadav'
+  name: 'Dinesh Sai'
   url: https://twitter.com/dinesh_oi
 
 paginate: 5
@@ -29,4 +29,4 @@ gems:
 version: 2.1.0
 
 github:
-  repo: https://github.com/dinesh
+  repo: https://github.com/dineshsai07
